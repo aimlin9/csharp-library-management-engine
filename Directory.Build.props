@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Compiler warnings fail the build, so they get fixed immediately. -->
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+</Project>
