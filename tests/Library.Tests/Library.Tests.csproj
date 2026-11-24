@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Library.Core\Library.Core.csproj" />
+    <ProjectReference Include="..\..\src\Library.Cli\Library.Cli.csproj" />
   </ItemGroup>
 
 </Project>
